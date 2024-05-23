@@ -1,0 +1,6 @@
+DATE = "17:05:03 February 05, 2018"
+QUARTUS_VERSION = "16.0.0"
+
+# Revisions
+
+PROJECT_REVISION = "vga_core"
