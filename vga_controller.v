@@ -1,6 +1,5 @@
 // Definitely do not modify this file
-//
-// 2018/02/05 Compiled by M. Hildebrand from various sources
+
 
 module vga_controller #(
    parameter h_pixels   = 640,   // horizontal display
